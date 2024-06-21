@@ -35,7 +35,8 @@ public class CompostablesMixin extends Block {
         CompostablesMixin.invokeRegisterCompostableItem(0.3f, SPIDER_EYE);
 
         CompostablesMixin.invokeRegisterCompostableItem(0.5f, SLIME_BALL);
-        CompostablesMixin.invokeRegisterCompostableItem(0.5f, SCUTE);
+        CompostablesMixin.invokeRegisterCompostableItem(0.5f, TURTLE_SCUTE);
+        CompostablesMixin.invokeRegisterCompostableItem(0.5f, ARMADILLO_SCUTE);
         CompostablesMixin.invokeRegisterCompostableItem(0.5f, INK_SAC);
         CompostablesMixin.invokeRegisterCompostableItem(0.5f, GLOW_INK_SAC);
         CompostablesMixin.invokeRegisterCompostableItem(0.5f, FERMENTED_SPIDER_EYE);
